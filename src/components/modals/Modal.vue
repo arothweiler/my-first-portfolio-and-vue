@@ -3,7 +3,7 @@
   <div class="modal-backdrop">
     <div class="modal">
       <header class="modal-header">
-        <slot name="header"></slot>
+        <slot name="header">sdf</slot>
       </header>
       <section class="modal-body">
         <slot name="body"></slot>
