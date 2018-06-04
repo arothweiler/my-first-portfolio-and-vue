@@ -1,6 +1,6 @@
 # my-first-portfolio-and-vue
 
-My old portfolio was changed and remade with Vue js, I really enjoyed the project.
+My old portfolio was changed and remade with Vue js. I really enjoyed the project.
 
 I've used:
 <ul>
