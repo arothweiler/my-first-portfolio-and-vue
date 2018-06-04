@@ -36,17 +36,17 @@ import Modal from './modals/Modal.vue';
               title: "Clean my room",
               description: "This is a discription",
               images: "http://deluxecafemoree.com.au/wp-content/uploads/2016/01/sharpeis-in-car-dogs-in-hot-car-summer-url.jpg", 
-              alt: "hallo"
+              alt: "first"
             },
              { 
               title: 'holla', 
               images: "http://deluxecafemoree.com.au/wp-content/uploads/2016/01/sharpeis-in-car-dogs-in-hot-car-summer-url.jpg", 
-              alt: "hallo"
+              alt: "second"
             },
              { 
               title: 'bonjour', 
               images: "http://deluxecafemoree.com.au/wp-content/uploads/2016/01/sharpeis-in-car-dogs-in-hot-car-summer-url.jpg", 
-              alt: "hallo"
+              alt: "third"
             },
           
 
