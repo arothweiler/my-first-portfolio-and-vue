@@ -1,7 +1,6 @@
 
 <template>
    <div class="about-class">
-<!--     <h1>{{ msg }}</h1> -->
 <aside></aside>
 <section>
   <h2 style="text-decoration: none;">About</h2>
