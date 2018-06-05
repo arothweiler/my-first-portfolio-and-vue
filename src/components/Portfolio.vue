@@ -22,7 +22,6 @@
 </template>
 
 <script>
-/* import Button from './modals/Exp.vue' */
 import Modal from './modals/Modal.vue';
 
   export default {
@@ -54,7 +53,6 @@ import Modal from './modals/Modal.vue';
         }
       },
     components: {
-      /* 'app-button': Button */
       'port-modal': Modal
     },
     methods: {
@@ -101,16 +99,5 @@ aside{
   flex-wrap: wrap;
 }
 
-
-/* .cases div{
-  margin: 20px;
-}
-.cases div:hover{
-  margin: 20px;
-}
-.cases > div>img {
-  width: 300px;
-  height: 250px;
-} */
 
 </style>

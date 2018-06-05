@@ -7,14 +7,8 @@ import About from '../components/About'
 import Portfolio from '../components/Portfolio'
 import Contact from '../components/Contact'
 
-/* import Module from '../components/module.vue'
-
-Vue.component('app-button', Module) */
-
-
-/* Vue.use(VueModalTor) */
 Vue.use(Router)
-/* Vue.use(VModal) */
+
 
 
 
